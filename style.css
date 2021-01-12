@@ -1,0 +1,33 @@
+.project-card{
+
+    border:0px;
+}
+.footer{
+
+    background-color:white;
+    border:0;
+}
+.catagories img{
+
+width:100px
+}
+.sliide-carousel{
+background-color:#fceae8;
+
+}
+h3.price{
+color:orangered;
+
+}
+.title{
+color:orangered;
+text-shadow: 5px;
+
+}
+.btn{
+background-color: magenta;
+
+}
+.upper-section{
+    background-color:#fceae8;
+}
